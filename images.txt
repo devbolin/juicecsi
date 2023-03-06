@@ -1,0 +1,5 @@
+juicedata/juicefs-csi-driver:v0.18.1
+juicedata/csi-node-driver-registrar:v2.1.0
+juicedata/csi-provisioner:v1.6.0
+juicedata/livenessprobe:v1.1.0
+juicedata/mount:v1.0.3-4.8.6
